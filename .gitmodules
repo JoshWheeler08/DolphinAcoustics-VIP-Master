@@ -1,0 +1,3 @@
+[submodule "Classifier"]
+	path = Classifier
+	url = https://github.com/JoshWheeler08/DolphinAcoustics-Classifier.git
