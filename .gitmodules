@@ -1,3 +1,7 @@
 [submodule "Classifier"]
 	path = Classifier
 	url = https://github.com/JoshWheeler08/DolphinAcoustics-Classifier.git
+[submodule "AnnotationManager"]
+	path = AnnotationManager
+	url = https://github.com/pregenRobot/vipannotations.git
+	branch = main
